@@ -1,0 +1,10 @@
+{
+    "router": [
+        {
+            "host_ip": "192.168.233.134",
+            "hostname": "PYJSONdone",
+            "username": "admin",
+            "password": "C1sc0123",
+        }
+    ]
+}
